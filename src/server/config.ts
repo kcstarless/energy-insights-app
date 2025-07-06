@@ -1,4 +1,6 @@
-export const CSV_FILE_LOCATION = 'src/server/data/sample.csv'
+import path from 'path'
+
+export const CSV_FILE_LOCATION = path.join(process.cwd(), 'src', 'server', 'data', 'sample.csv')
 
 export const CSV_CONFIG = {
   EXPECTED_COLUMNS: 53,

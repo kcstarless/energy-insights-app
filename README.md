@@ -1,4 +1,4 @@
-# Energy Usage Dashboard
+# Energy Insight App
 
 A modern, responsive web application built with Next.js that visualizes and analyzes household energy consumption data. The dashboard provides interactive charts, detailed usage tables, and comprehensive analytics to help users understand their energy consumption patterns.
 
